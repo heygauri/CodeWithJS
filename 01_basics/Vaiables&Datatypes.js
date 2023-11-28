@@ -53,7 +53,7 @@ const name3 = "initialized name3";
 //name3 = "updated name3"
 console.log(name3);
 
-/*Seven Primitive Datatypes in JS(Note: Null is of type object but is also 
+/* Seven Primitive Datatypes in JS(Note: Null is of type object but is also 
 considered as one of the primitive datatype in JS): */
 let intVar = 23;
 let floatVar = 100.99
