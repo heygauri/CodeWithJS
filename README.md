@@ -47,6 +47,6 @@ Remember to keep your contributions positive and constructive.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 Happy coding!
